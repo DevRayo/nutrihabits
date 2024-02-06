@@ -218,7 +218,15 @@ h5 {font-size:20px;line-height: 28px;}
 h6 {font-size:16px;line-height: 24px;}
 
 header {padding: 16px 0px;z-index: 1;position: fixed;width: 100%;background: #fff;top: 0;}
-.logo-block {margin-top: 4px;}
+.logo-block {
+  margin-top: 4px; 
+}
+.logo-nutrihabits{
+  height: 58px;
+}
+.logo-footer{
+  height: 120px;
+}
 header.green .logo-block {margin-top: 4px;}
 .logo-block figure {margin-bottom: 0;width: 240px;}
 .navbar-default {background-color: transparent;border-color: transparent;}
@@ -1407,7 +1415,7 @@ header.green {background: #60ba62;}
   footer {height: 296px;}
   main {margin-bottom: 296px;}
   .bottom-footer {padding: 15px 0;}
-  .footer-menu {width: 100%;border-top: 1px solid #ededed;padding-top: 20px;}
+  .footer-menu {width: 100%;border-top: 1px solid #ededed;padding-top: 120px;}
   .big-image figure {height: 326px;}
   .small-image-wrap figure {height: 156px;}
   .small-image-group .row {margin: 0 -7px;}
