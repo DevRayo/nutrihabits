@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Página Principal - Nutrihabits | Nutrióloga en México -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.nutrihabits.com.mx/images/logo.png</image:loc>
+      <image:title>Nutrihabits - Nutrióloga Certificada en México</image:title>
+      <image:caption>Logo de Nutrihabits, nutrióloga certificada con servicios de nutrición profesional en México</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.nutrihabits.com.mx/images/home-banner1.jpg</image:loc>
+      <image:title>Nutrióloga Profesional - Consulta de Nutrición Personalizada</image:title>
+      <image:caption>Nutrióloga certificada en México. Servicios de nutrición profesional con planes de alimentación personalizados</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Sección: Nosotros / Consultas con Nutrióloga -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#our</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Keyword: Nutrióloga en México -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Keyword: Nutrición Profesional -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sección: Menú Nutricional -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#ourMenu</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.nutrihabits.com.mx/images/food-1.jpg</image:loc>
+      <image:title>Menú Saludable - Nutrición Balanceada</image:title>
+      <image:caption>Platillos saludables incluidos en nuestros planes nutricionales</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Sección: Precios y Programas -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#price</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog: Alimentación Saludable -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#alimentacion-saludable</loc>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.nutrihabits.com.mx/images/blog-image1.jpg</image:loc>
+      <image:title>¿En qué consiste una alimentación saludable?</image:title>
+      <image:caption>Guía completa sobre alimentación balanceada y nutritiva</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog: Nutrición y Sistema Inmune -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#nutricion-sistema-inmune</loc>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.nutrihabits.com.mx/images/blog-image2.jpg</image:loc>
+      <image:title>La nutrición y el sistema inmune</image:title>
+      <image:caption>Cómo fortalecer el sistema inmunológico con una buena nutrición</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog: Hábitos Saludables -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#habitos-saludables</loc>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.nutrihabits.com.mx/images/blog-image3.jpg</image:loc>
+      <image:title>Cómo establecer hábitos saludables de alimentación</image:title>
+      <image:caption>Consejos prácticos para crear y mantener hábitos alimenticios saludables</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Página de Error 404 -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/404.html</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+  <!-- Video de Recetas -->
+  <url>
+    <loc>https://www.nutrihabits.com.mx/#video</loc>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.nutrihabits.com.mx/images/video-bg.jpg</video:thumbnail_loc>
+      <video:title>Cómo Preparar Comida Saludable - Nutrihabits</video:title>
+      <video:description>Tutorial de preparación de alimentos nutritivos y saludables</video:description>
+      <video:content_loc>https://www.nutrihabits.com.mx/media/video.mp4</video:content_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2024-05-12</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+    </video:video>
+  </url>
+
+</urlset>
+
